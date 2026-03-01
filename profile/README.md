@@ -36,16 +36,16 @@ Blyno Solutions is an MSME-Registered software agency running a high-intensity *
 | **Career Perks** | ❌ | **Free Professional Resume Review** |
 | **Growth Support** | ❌ | **1-on-1 Career Guidance Session** |
 | **Documentation** | Standard | **Day 1 Elite Documentation Kit** |
-| **Certification** | Post-Evaluation (₹199) | **Verified Badge + Premium LOR** |
-| **Investment** | **FREE** | ~~₹1499~~ **₹799 (Early Bird)** |
+| **Certification** | Post-Evaluation | **Verified Badge + Premium LOR** |
+| **Investment** | **FREE** | ~~₹799~~ **₹399 (Early Bird)** |
 
 > [!IMPORTANT]
-> **🔥 EARLY BIRD OFFER:** The price is currently slashed from **₹1499 to ₹799** for the first 20 students per domain. Once these 20 slots are filled, the price reverts to the original amount.
+> **🔥 EARLY BIRD OFFER:** The price is currently slashed from **₹799 to ₹399** for the first 20 students per domain. Once these 20 slots are filled, the price reverts to the original amount.
 
 ---
 
 ## 🔄 How to Start
-1. **Register:** Visit **[blynosolutions.com/register](https://blynosolutions.com/register)** or our [Official Form](https://forms.gle/yourlink).
+1. **Register:** Visit **[blynosolutions.com/register](https://blynosolutions.com)** or our [Official Form](https://forms.gle/SVAwXr2jm8mR87RT9).
 2. **Onboarding:** Check your email for your Tier-specific Startup Kit.
 3. **Accelerator Access:** FastTrack users receive immediate access to the **4-Week Sprint Map** and the **Internal Style Guide** to start coding on Day 1.
 4. **Ship code:** Fork the repo and raise your first "Onboarding PR."
@@ -55,5 +55,4 @@ Blyno Solutions is an MSME-Registered software agency running a high-intensity *
 ## 📫 Connect with the Agency
 [Website](https://blynosolutions.com) • [LinkedIn](https://linkedin.com/company/blynosolutions) • [Instagram](https://instagram.com/blynosolutions)
 
-**Blyno Solutions | MSME Registered Enterprise 🇮🇳**
-*"Building the future, one Pull Request at a time."*
+**Blyno Solutions | MSME Registered Enterprise**
