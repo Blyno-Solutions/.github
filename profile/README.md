@@ -45,14 +45,14 @@ Blyno Solutions is an MSME-Registered software agency running a high-intensity *
 ---
 
 ## 🔄 How to Start
-1. **Register:** Visit **[blynosolutions.com/register](https://blynosolutions.com)** or our [Official Form](https://forms.gle/SVAwXr2jm8mR87RT9).
-2. **Onboarding:** Check your email for your Tier-specific Startup Kit.
+1. **Register:** Visit **[blynosolutions.com/internships](https://blynosolutions.com/internships)** or our [Official Form](https://forms.gle/SVAwXr2jm8mR87RT9).
+2. **Onboarding:** Check your email for your Tier-specific Next Steps.
 3. **Accelerator Access:** FastTrack users receive immediate access to the **4-Week Sprint Map** and the **Internal Style Guide** to start coding on Day 1.
 4. **Ship code:** Fork the repo and raise your first "Onboarding PR."
 
 ---
 
 ## 📫 Connect with the Agency
-[Website](https://blynosolutions.com) • [LinkedIn](https://linkedin.com/company/blynosolutions) • [Instagram](https://instagram.com/blynosolutions)
+[Website](https://blynosolutions.com) • [LinkedIn](https://www.linkedin.com/company/blynosolutions)
 
 **Blyno Solutions | MSME Registered Enterprise**
