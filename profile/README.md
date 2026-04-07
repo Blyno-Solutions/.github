@@ -1,58 +1,62 @@
-# 🚀 Blyno Solutions: The 1% Developer Lab
-**Build Real Projects. Get Real Reviews. Earn Real Growth.**
+# <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:000000&height=120&section=header&text=Blyno%20Solutions&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 
-Most students watch tutorials. A few build projects. **Very few ship production-level code.** We train the last category.
-
-Blyno Solutions is an MSME-Registered software agency running a high-intensity **Open-Source Internship Program (Batch 2026)**. This is an elite track for 1st & 2nd-year students to gain an "unfair advantage" before the placement season begins.
-
----
-
-## 🛠️ Active Production Projects (Batch 2026)
-*Direct contribution to agency-grade software. The top 1% of contributors in EACH domain will be offered a **Paid Remote Internship** at Blyno Solutions.*
-
-### 📱 [SafeWalk Mobile](https://github.com/Blyno-Solutions/safewalk-mobile-app)
-> **Domain:** Flutter & App Dev. Build a safety navigation app with real-time GPS logic.
->> 🏆 **Top 1% Reward:** Paid Role in our App Development Wing.
-
-### 🌿 [EcoTrack Dashboard](https://github.com/Blyno-Solutions/ecotrack-sustainability-web)
-> **Domain:** Web Development. Create a SaaS sustainability tracker with complex data viz.
->> 🏆 **Top 1% Reward:** Paid Role in our Frontend Engineering Team.
-
-### 🔐 [Shield Vault API](https://github.com/Blyno-Solutions/shield-vault-backend-api)
-> **Domain:** Backend Development. Build enterprise-grade AES-256 encrypted file vaults.
->> 🏆 **Top 1% Reward:** Paid Role in our Backend & Security Team.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-MSME--Registered-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Production--Ready-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security-AES--256-14532d?style=for-the-badge" />
+</p>
 
 ---
 
-## 🎯 Choose Your Trajectory
-**Stop guessing. Start growing. Only 20 slots available for the Accelerator.**
+### 🛡️ Engineering the Future of Digital Infrastructure
+**Blyno Solutions** is a high-performance software development agency. We specialize in transforming complex business challenges into resilient, scalable, and secure digital products. From Zero-Trust backends to real-time mobile ecosystems, we ship code that stands the test of production.
 
-| Feature | 🟢 Free Track | 🔵 FastTrack Accelerator |
-| :--- | :--- | :--- |
-| **Project Access** | Full Access | Full Access |
-| **PR Evaluation** | Peer-reviewed (Weekly) | **Line-by-line Expert Audit (48h)** |
-| **Guidance** | Community FAQ | **1-on-1 Career & Tech Mentorship** |
-| **Merge Priority** | Competitive (Top 5%) | **Priority Production Processing** |
-| **Career Perks** | ❌ | **Free Professional Resume Review** |
-| **Growth Support** | ❌ | **1-on-1 Career Guidance Session** |
-| **Documentation** | Standard | **Day 1 Elite Documentation Kit** |
-| **Certification** | Post-Evaluation | **Verified Badge + Premium LOR** |
-| **Investment** | **FREE** | ~~₹799~~ **₹399 (Early Bird)** |
-
-> [!IMPORTANT]
-> **🔥 EARLY BIRD OFFER:** The price is currently slashed from **₹799 to ₹399** for the first 20 students per domain. Once these 20 slots are filled, the price reverts to the original amount.
+> **Our Mission:** To eliminate technical debt by delivering software that is maintainable, secure, and built to scale from day one.
 
 ---
 
-## 🔄 How to Start
-1. **Register:** Visit **[blynosolutions.com/internships](https://blynosolutions.com/internships)** or our [Official Form](https://forms.gle/SVAwXr2jm8mR87RT9).
-2. **Onboarding:** Check your email for your Tier-specific Next Steps.
-3. **Accelerator Access:** FastTrack users receive immediate access to the **4-Week Sprint Map** and the **Internal Style Guide** to start coding on Day 1.
-4. **Ship code:** Fork the repo and raise your first "Onboarding PR."
+### 🏷️ White-Label Software Ecosystem
+We provide **fully customizable, production-grade software** designed for rapid deployment with zero vendor lock-in.
+* 📦 **SaaS Platforms:** Robust multi-user architectures.
+* 📱 **Mobile Apps:** Performance-optimized cross-platform solutions.
+* 🛠️ **Internal Tools:** Systems designed to automate and optimize workflows.
+* 🔄 **Zero Lock-In:** Every delivery includes a clean, well-documented codebase for full team ownership.
 
 ---
 
-## 📫 Connect with the Agency
-[Website](https://blynosolutions.com) • [LinkedIn](https://www.linkedin.com/company/blynosolutions)
+### 👩‍💻 Developer Lab & Academy
+We believe in building the builders. Our ecosystem integrates learning directly with engineering execution.
 
-**Blyno Solutions | MSME Registered Enterprise**
+* **🚀 Zero-Config IDE:** A built-in, real-time coding environment (VS Code style). No local setup, just pure engineering from Day 1.
+* **🎓 Competence-Based Certification:** Validating real-world execution. Our credentials reflect a developer's ability to ship production-quality software.
+* **💼 Batch 2026 Internship:** Bridging the gap between theory and the 1% of engineering excellence.
+
+---
+
+### 🧱 Our Engineering Manifesto
+
+1. **Maintainable Systems:** Clean codebases that teams can evolve confidently.
+2. **Scalable Architectures:** Designed to grow without re-engineering from scratch.
+3. **Secure by Design:** Security is a foundation, not a feature.
+4. **Production-First:** If it doesn't work reliably in the real world, it's not finished.
+
+---
+
+### 🌐 Connect with the Lab
+
+<p align="center">
+  <a href="https://blynosolutions.com">
+    <img src="https://img.shields.io/badge/Official_Site-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://academy.blynosolutions.com">
+    <img src="https://img.shields.io/badge/Blyno_Academy-185FA5?style=for-the-badge&logo=bookstack&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/company/blynosolutions">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Blyno Solutions</strong> | MSME Registered Software Agency<br/>
+  <sub>Building systems that stand the test of time.</sub>
+</p>
